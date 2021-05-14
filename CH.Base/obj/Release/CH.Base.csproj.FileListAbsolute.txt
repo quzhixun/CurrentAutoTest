@@ -1,0 +1,6 @@
+E:\项目管理\晨焕\分享桌面\源码\CH.Base\bin\Release\CH.Base.dll
+E:\项目管理\晨焕\分享桌面\源码\CH.Base\bin\Release\CH.Base.pdb
+E:\项目管理\晨焕\分享桌面\源码\CH.Base\obj\Release\CH.Base.csproj.CoreCompileInputs.cache
+E:\项目管理\晨焕\分享桌面\源码\CH.Base\obj\Release\CH.Base.dll
+E:\项目管理\晨焕\分享桌面\源码\CH.Base\obj\Release\CH.Base.pdb
+E:\项目管理\晨焕\分享桌面\源码\CH.Base\obj\Release\CH.Base.csprojAssemblyReference.cache

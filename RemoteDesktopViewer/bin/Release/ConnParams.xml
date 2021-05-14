@@ -1,0 +1,8 @@
+<vms>
+  <vm>
+    <ip>192.168.3.103</ip>
+    <port>5002</port>
+    <vmName>1#</vmName>
+    <password>123456</password>
+  </vm>
+</vms>
